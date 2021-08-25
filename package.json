@@ -1,0 +1,20 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "membuat aplikasi api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/irvanriz/apinodejs.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "irvan",
+  "license": "ISC"
+}
